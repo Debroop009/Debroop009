@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/H8pRYv4Pz2nEgqbU6.">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debroop009&label=Profile%20views&color=0e75b6&style=flat" alt="debroop009" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debroop009" alt="debroop009" /></a> </p>
-
 - 🌱 I’m currently learning **Reinforcement learning and Natural language processing**
 
 - 💬 Ask me about **Deep learning**
