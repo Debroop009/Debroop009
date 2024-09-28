@@ -1,8 +1,8 @@
-[![MasterHead](https://www.dreamstime.com/concept-commercial-background-image-topic-machine-learning-banner-advertising-generative-ai-concept-image314340459.)]
 <h1 align="center">Hi 👋, I'm Debroop Ghosh</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/H8pRYv4Pz2nEgqbU6.">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debroop009&label=Profile%20views&color=0e75b6&style=flat" alt="debroop009" /> </p>
+
 
 - 🌱 I’m currently learning **Reinforcement learning and Natural language processing**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debroop009&show_icons=true&locale=en" alt="debroop009" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debroop009&" alt="debroop009" /></p>
-
