@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/9888d3b7-7d63-4d0e-91e0-17dcf4adc39d)
+![concept-commercial-background-image-topic-machine-learning-banner-advertising-generative-ai-concept-314340459-transformed](https://github.com/user-attachments/assets/47c60696-b5be-428d-b36e-68a29d0ce11b)
 <h1 align="center">Hi 👋, I'm Debroop Ghosh</h1>
 <h3 align="center">A passionate machine learning engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
